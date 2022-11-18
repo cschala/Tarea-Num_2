@@ -109,12 +109,114 @@ Si ya que si aumenta su voltaje aumenta tambien su corriente.
 
 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 V.
 
+![image](https://user-images.githubusercontent.com/117959424/202596681-5544f410-8907-4cf8-9d17-1e3e15b953ec.png)
+
+*SECCIÓN 3–5: Introducción a la localización de fallas.
+
+36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
+
+![image](https://user-images.githubusercontent.com/117959424/202596962-4ddef48e-6515-4d1f-ac50-4ff20a099ac6.png)
+
+*CAPITULO 4: ENERGIA Y POTENCIA
+
+SECCIÓN 4–1: Energía y potencia
+
+2. Demuestre que hay 3.6 3 106 joules en un kilowatt-hora.
+
+![image](https://user-images.githubusercontent.com/117959424/202597144-ff53ea8a-d89f-498b-96cb-9b17a5f6a945.png)
+
+4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![image](https://user-images.githubusercontent.com/117959424/202597268-ad5a70d3-bba1-4267-8019-cfac03075895.png)
+
+6. Convierta las siguientes cantidades en kilowatts:
+
+![image](https://user-images.githubusercontent.com/117959424/202597601-0f0dd260-fc41-44c8-a753-6e551605da37.png)
+
+8. Convierta las siguientes cantidades en miliwatts:
+
+![image](https://user-images.githubusercontent.com/117959424/202597867-94e4df0c-4ffa-4e70-a500-cdd46d45b2c0.png)
+
+10. Convierta las siguientes cantidades en watts:
+
+![image](https://user-images.githubusercontent.com/117959424/202598251-09df9ac4-5a39-4e64-8122-7c92024a399b.png)
+
+12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+
+![image](https://user-images.githubusercontent.com/117959424/202598403-58c7c858-f522-44c9-9855-138926c18d9a.png)
+
+14. Convierta 5 3 106 watts-minutos en kWh.
+
+![image](https://user-images.githubusercontent.com/117959424/202598509-6f399744-250e-4d39-83ff-1d1c458616d2.png)
+
+16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir 25 J?
+
+![image](https://user-images.githubusercontent.com/117959424/202600333-c717ae66-6df4-47dc-b197-7a80aa8bcf3c.png)
+
+*SECCIÓN 4–2: Potencia en un circuito eléctrico.
+
+18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+![image](https://user-images.githubusercontent.com/117959424/202601056-649d1e55-e745-41bb-a8a1-9a7fa049590f.png)
+
+20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kÆ?
+
+![image](https://user-images.githubusercontent.com/117959424/202601272-fab46c20-0327-48f2-a22e-6d27f0d7c2c0.png)
+
+22. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
+
+![image](https://user-images.githubusercontent.com/117959424/202601366-d90f33c4-1310-4f5b-90ed-e688cae2eaaa.png)
+
+24. Si un resistor tiene que transportar 2 Ade corriente y manejar 100 Wde potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+![image](https://user-images.githubusercontent.com/117959424/202601524-c0a70407-d899-455a-b6c9-dcab99cfeb4d.png)
+
+*SECCIÓN 4–3: Clasificaciones de potencia en resistores.
+
+26. Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+
+![image](https://user-images.githubusercontent.com/117959424/202601863-d0c77131-451f-493d-80d9-dbb179545972.png)
+
+*SECCIÓN 4–4: Conversión de energía y caída de voltaje en una resistencia.
+
+28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+
+![image](https://user-images.githubusercontent.com/117959424/202602013-ac8d455a-5402-4111-b018-a10204951abd.png)
+
+*SECCIÓN 4–5: Fuentes de potencia.
+
+30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
+![image](https://user-images.githubusercontent.com/117959424/202602255-b60dc080-f6e1-4bda-ab33-f0ee3db3ab39.png)
+
+32. Una batería puede proporcionar un promedio de 1.5 Ade corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+![image](https://user-images.githubusercontent.com/117959424/202602365-2bab1342-b082-4611-aa85-67cda06bff1e.png)
+
+34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+![image](https://user-images.githubusercontent.com/117959424/202602556-6460c33b-6c40-447c-8ded-ef418255b4a7.png)
+
+36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+![image](https://user-images.githubusercontent.com/117959424/202602676-e33bb857-8b6d-46a9-a790-64fa590bcf76.png)
+
+# 4.	VIDEO
 
 
 
+# 5.	CONCLUSIONES
 
+-)Despues de analizar y comprender los capitulos 3 y 4 contemplamos una nueva relacion con la ley de ohm como lo es la potencia con el Voltaje y la Intensidad.
 
+-)Descubrimos que en pequeña escala aplica la notacion cientifica para poder trabajar con unidades pequeñas, con la ley de ohm ya que son circuitos pequeños y no se necesita grandes cantidades de energia.
 
+-)Analizamos nuevos conceptos como la eficiencia, y la potencia, ya que en este capitulo el tiempo toma el protagonismo en las nuevas unidades de la electricidad.
 
+# 6.	Bibliografía
 
+Floyd, T. (2007). Principios de circuitos electricos . PEARSON Educación.
 
+# RUBRICA
+
+![image](https://user-images.githubusercontent.com/116814096/200999683-fe53d616-5553-4761-bdf4-e15a280451cb.png)
